@@ -16,7 +16,7 @@
 //}
 //else {
 //	if ( $_SERVER['PHP_AUTH_USER'] != 'USERNAME' || $_SERVER['PHP_AUTH_PW'] != 'PASSWORD' ) {
-//		echo "Wrong password!";
+//		die("Wrong password!");
 //	}	
 //}
 
